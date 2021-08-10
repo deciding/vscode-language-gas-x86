@@ -1,7 +1,7 @@
 {
-    "name": "language-gas-x86",
-    "displayName": "GNU Assembler Language Support",
-    "description": "GNU Assembler x86/x86_64 language support",
+    "name": "language-gas-x86-header",
+    "displayName": "GNU Assembler Language Support with header",
+    "description": "GNU Assembler x86/x86_64 language support with .h",
     "version": "0.0.2",
     "license": "MIT",
     "publisher": "basdp",
